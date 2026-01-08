@@ -2,29 +2,23 @@
 # Default home page with boxes providing collection stats
 layout: page
 ---
+
 <div class="row">
-
+  <h1><strong>¡Bienvenido!</h1></strong>
+  <p>
+    Explora una selección personal de las obras que han definido nuestro amor por el séptimo arte. 
+    En esta plataforma, hemos organizado una lista de títulos que nos han marcado de manera especial.
+  </p>
+  <p>
+    Siéntete libre de explorar los géneros y las reseñas que hemos preparado para ti. 
+    ¡Esperamos que disfrutes del recorrido!
+  </p>
   <div class="col-md-8">
-
-    {% include index/description.html %}
-    {% include index/carousel.html title="Sample Items" height="300" %}
-  
+    {% include index/carousel.html title="Películas" height="700" %}
   </div>
-  <div class="col-md-4">  
-
-    {% include index/time.html %}
-
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
-
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
-
-    {% include index/objects.html %}
-
+  <div class="col-md-4">
+    {% include index/time.html title="Cronología" %} {% include
+    index/featured-terms.html field="subject" title="Géneros principales"
+    btn-color="primary" %}
   </div>
-  <div class="col-md-12">
-
-    {% include index/data-download.html %}
-
-  </div>
-  
 </div>

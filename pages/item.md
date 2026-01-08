@@ -1,8 +1,7 @@
 ---
-title: Collection Item
+title: Elemento de la colección
 layout: item
 permalink: /item.html
-# see _data/config-metadata.csv for display options
-# do not add content to this file
+# ver _data/config-metadata.csv para opciones de visualización
+# no añadir contenido a este archivo
 ---
-

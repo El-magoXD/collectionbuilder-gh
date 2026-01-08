@@ -1,8 +1,8 @@
 ---
-title: Timeline
+title: Cronología
 layout: timeline
 permalink: /timeline.html
-# a timeline visualization will be added below the content in this file
+# se añadirá una visualización de cronología debajo del contenido en este archivo
 ---
 
-## Collection Timeline
+## Cronología de la colección

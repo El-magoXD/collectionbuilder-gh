@@ -1,9 +1,9 @@
 ---
-title: Browse
+title: Explorar
 layout: browse
 permalink: /browse.html
-# see _data/config-browse.csv for display options
-# the Browse visualization will be added below the content in this file
+# ver _data/config-browse.csv para opciones de visualización
+# la visualización Browse se añadirá debajo del contenido en este archivo
 ---
 
-## Browse Items
+## Examinar elementos

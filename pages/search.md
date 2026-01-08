@@ -1,9 +1,9 @@
 ---
-title: Site Search
+title: Búsqueda
 layout: search
 permalink: /search/
-# see _data/search-config.csv for display options
-# Lunr.js search will be added below the content in this file
+# ver _data/search-config.csv para opciones de visualización
+# Se añadirá Lunr.js search debajo del contenido en este archivo
 ---
 
-## Full metadata search:
+## Búsqueda completa de metadatos:
