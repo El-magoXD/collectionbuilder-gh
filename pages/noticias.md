@@ -1,6 +1,6 @@
 ---
 title: Noticias
-layout: page
+layout: cloud
 permalink: /noticias
 # incluir información de CollectionBuilder al final
 credits: false
