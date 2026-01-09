@@ -1,0 +1,23 @@
+---
+# default layout for movie reviews blog
+layout: default
+---
+
+<div class="container my-4 posts">
+  <!-- Blog Posts Section -->
+  <div class="row">
+    {% for post in site.posts %}
+    <div class="col-md-4 mb-4">
+      <div class="post">
+        <h3>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
+        <p class="meta">
+          Publicado el {{ post.date | date: "%d de %B de %Y" }}
+        </p>
+        <div class="excerpt">{{ post.excerpt }}</div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

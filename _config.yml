@@ -29,6 +29,9 @@ description: "Una colección digital de películas creada con CollectionBuilder.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Aitor García, Pedro González, Carlos Bravo
 
+#idioma
+locale: es
+
 ##########
 # COLLECTION SETTINGS
 #
