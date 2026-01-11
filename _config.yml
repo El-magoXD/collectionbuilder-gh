@@ -20,9 +20,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Colección películas
+title: PelisPedia
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Una colección de películas
+tagline: Tu archivo definitivo de cine
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Una colección digital de películas creada con CollectionBuilder."
