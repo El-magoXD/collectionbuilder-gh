@@ -29,4 +29,4 @@ No obstante, lo que realmente eleva a El Planeta del Tesoro es su profundidad em
 
 Si miro hacia atrás, agradezco aquel fracaso en taquilla que se convirtió en el éxito de mi vida. Gracias a Jim y su tabla solar, aprendí que el destino no está escrito, se surfea. Me quedo con esa lección grabada a fuego, marcando mi propio rumbo y esperando, como decía Silver, que el mundo algún día se asombre al ver cuánto puedo brillar.
 
-![Planeta del tesoro](../assets/img/planetadel.jpg){: width="1000px"}
+![Planeta del tesoro](https://el-magoxd.github.io/collectionbuilder-gh/assets/img/planetadel.jpg){: width="1000px"}
