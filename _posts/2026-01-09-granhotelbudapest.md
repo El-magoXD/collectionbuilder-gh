@@ -41,4 +41,4 @@ Ralph Fiennes destaca especialmente en su interpretación de Gustave H., aportan
 
 _El Gran Hotel Budapest_ es una película que sobresale tanto por su propuesta estética como por su capacidad narrativa. Más allá de su apariencia colorida y su humor peculiar, es una reflexión sobre la decadencia de una época y el valor de los recuerdos. Se trata de una obra envolvente, original y profundamente autoral, que consolida a Wes Anderson como uno de los cineastas más reconocibles e influyentes del cine actual.
 
-![Gran Hotel Budapest](/assets/img/granhotel.jpg){: width="1000px"}
+![Gran Hotel Budapest](../assets/img/granhotel.jpg){: width="1000px"}
